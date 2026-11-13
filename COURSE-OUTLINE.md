@@ -55,7 +55,8 @@ helm version
 git --version
 python3 --version
 docker --version
-gh --version
+glab --version #(GitLab)
+# gh --version (GitHub)
 ```
 
 ---
